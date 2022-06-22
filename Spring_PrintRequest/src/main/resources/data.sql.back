@@ -1,0 +1,18 @@
+-- INSERT INTO T_PrintRequest (id,
+-- c_cardPAN,
+-- c_personnelCode,
+-- c_branchCode,
+-- c_ipAddress)
+-- VALUES ('10.20.152.24123','502272198564752','20955','123','10.20.152.24');
+-- INSERT INTO T_PrintRequest ((id,
+-- c_cardPAN,
+-- c_personnelCode,
+-- c_branchCode
+-- c_ipAddress)
+-- VALUES ('10.20.152.2123'','502272198564752','23453','123','10.20.152.2');
+-- INSERT INTO T_PrintRequest ((id,
+-- c_cardPAN,
+-- c_personnelCode,
+-- c_branchCode
+-- c_ipAddress)
+-- VALUES ('10.20.152.26234','502272198564752','43212','234','10.20.152.26');
